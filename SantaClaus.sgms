@@ -1,0 +1,3 @@
+santa = tk.PhotoImage(file="SantaClaus.png")
+santaLabel = tk.Label(w, image=santa, text="   Buon Natale 2024! (immagine fornita da DALL-E)", compound="left", font=("Courier New",18), bg="#202020",fg="white")
+santaLabel.grid(column=0,sticky="ew")
