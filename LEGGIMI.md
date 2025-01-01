@@ -1,4 +1,4 @@
-# logo.png
+# Sigma
 La calcolatrice più incredibile al mondo (quasi)!
 Sigma è un'applicazione che fornisce dei piccoli servizi legati alle operazioni matematiche!
 Fra queste, c'è anche la calcolatrice.
