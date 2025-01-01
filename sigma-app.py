@@ -3,10 +3,6 @@ from tkinter import ttk
 import random
 from tkinter import messagebox, scrolledtext
 import sys
-import keyword
-import re
-import code
-from io import StringIO
 w = tk.Tk()
 w.config(bg="#202020")
 w.title("Sigma")
